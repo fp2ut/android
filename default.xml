@@ -43,9 +43,9 @@
   <project path="development" name="android_development" remote="ubp" />
 
   <!-- Fairphone -->
-  <project path="device/fairphone_devices/FP2" name="android_device_fairphone_fp2" remote="arvil"/>
-  <project path="kernel/fairphone" name="android_kernel_fairphone_fp2" remote="arvil"/>
-  <project path="device/qcom/common" name="android_device_qcom_common" remote="cm"/>
+  <project path="device/fairphone_devices/FP2" name="android_device_fairphone_fp2" remote="fp2ut"/>
+  <project path="kernel/fairphone" name="android_kernel_fairphone_fp2" remote="fp2ut"/>
+  <project path="device/qcom/common" name="android_device_qcom_common" remote="fp2ut"/>
 
 <!-- |-|-|-|-|-| -->
 
